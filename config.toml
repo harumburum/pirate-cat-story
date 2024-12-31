@@ -1,5 +1,5 @@
-baseURL = 'https://harumburum.github.io/pirate-cat-story/'
-languageCode = 'en-us'
+baseURL = 'https://harumburum.github.io/stories/'
+languageCode = 'uk-ua'
 title = 'Веселі історії'
 
 theme = "PaperMod"
